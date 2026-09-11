@@ -1,0 +1,40 @@
+body{
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.Counter{
+    border: 3px solid black;
+    border-radius: 10px;
+    flex-direction: column;
+    margin: 10px auto;
+    padding: 20px;
+    width: 50%;
+}
+.Form{
+    border: 3px solid black;
+    border-radius: 30px;
+    margin: 10px auto;
+    padding: 30px;
+    width: 50%;
+}
+.TodoList{
+    border: 3px solid black;
+    border-radius: 30px;
+    margin: 10px auto;
+    padding: 20px;
+    width: 50%;
+}
+#CalInput{
+    width: 80px;
+}
+button{
+    margin: 3px;
+}
+.Calculator{
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 200px;
+    margin: 10px auto;
+    padding: 10px;
+}
